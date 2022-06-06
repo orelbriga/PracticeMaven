@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World from git and jenkins!";
+    private final String message = "Hello World from Git!";
 
     public App() {}
 
